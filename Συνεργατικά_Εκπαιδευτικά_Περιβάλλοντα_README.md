@@ -1,11 +1,11 @@
-# 🎵 Music History & Tradition: Collaborative Learning Between Corfu & Vienna
+#  Music History & Tradition: Collaborative Learning Between Corfu & Vienna
 ### Collaborative Educational Environments | Ionian University — January 2025
 
 > A full academic proposal for a **cross-cultural music education program** connecting the Music School of Corfu and the Music School of Vienna, using **Trello** and **Flat.io** as collaborative digital tools.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Project Overview](#project-overview)
 - [Tools Analyzed](#tools-analyzed)
 - [SWOT Analysis Summary](#swot-analysis-summary)
@@ -27,7 +27,7 @@ The program integrates two collaborative digital platforms to support project ma
 
 ## Tools Analyzed
 
-### 🗂️ Trello
+###  Trello
 A Kanban-based project management platform adapted for educational use.
 
 | Feature | Details |
@@ -43,7 +43,7 @@ A Kanban-based project management platform adapted for educational use.
 
 ---
 
-### 🎼 Flat.io
+###  Flat.io
 A real-time collaborative music notation platform.
 
 | Feature | Details |
@@ -170,11 +170,9 @@ The combination of Trello (for structure and project management) and Flat.io (fo
 
 ---
 
-## Authors
+## Author
+**Μουτζίκος Στέργιος** 
 
-**Νικολάου Νικόλαος** — P2020155  
-**Μουτζίκος Στέργιος** — inf2021149  
-**Αγγελίδης Στέφανος** — P2020102  
 
 Ionian University — Department of Informatics  
 Course: Collaborative Educational Environments  
