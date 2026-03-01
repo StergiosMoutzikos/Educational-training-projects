@@ -19,7 +19,7 @@ A collection of two academic papers and educational proposals developed during m
 
 ##  Project 1 — Music History & Tradition: Corfu–Vienna Collaboration
 
-📄 **Paper:** `Συνεργατικά_Εκπαιδευτικά_Περιβάλλοντα.pdf`
+ **Paper:** `Συνεργατικά_Εκπαιδευτικά_Περιβάλλοντα.pdf`
 
 A full academic proposal for a **year-long cross-cultural music education program** connecting the Music School of Corfu and the Music School of Vienna. The project uses **Trello** for project management and **Flat.io** for collaborative music notation.
 
@@ -30,7 +30,7 @@ A full academic proposal for a **year-long cross-cultural music education progra
 - Screenshots of actual Trello boards and Flat.io scores created for the project
 
 **Author:** Μουτζίκος Στέργιος <br>
-📖 [Read the full README](./Συνεργατικά_Εκπαιδευτικά_Περιβάλλοντα/README.md)
+ [Read the full README](./Συνεργατικά_Εκπαιδευτικά_Περιβάλλοντα/README.md)
 
 ---
 
@@ -48,11 +48,11 @@ A structured comparative study evaluating **6 popular coding education platforms
 - Future research directions
 
 **Author:** Μουτζίκος Στέργιος  
-📖 [Read the full README](./Code_Games_README.md)
+ [Read the full README](./Ειδικά_Θέματα_Διδακτικής_της_Πληροφορικής/README.md)
 
 ---
 
-## 🏛️ About
+##  About
 
 All work was produced at the **Ionian University, Department of Informatics** (Κέρκυρα, Greece).
 
