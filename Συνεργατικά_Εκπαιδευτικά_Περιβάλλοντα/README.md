@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Project Overview](#project-overview)
 - [Tools Analyzed](#tools-analyzed)
 - [SWOT Analysis Summary](#swot-analysis-summary)
