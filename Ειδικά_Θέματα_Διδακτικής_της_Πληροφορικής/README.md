@@ -1,11 +1,11 @@
-# 🎮 Comparative & Pedagogical Evaluation of Code Games in Education
+#  Comparative & Pedagogical Evaluation of Code Games in Education
 ### Special Topics in CS Didactics | Ionian University — June 2025
 
 > A structured comparative study evaluating **6 popular coding education tools** across **18 pedagogical and technical metrics**, with the goal of guiding educators toward evidence-based tool selection.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Project Overview](#project-overview)
 - [Tools Evaluated](#tools-evaluated)
 - [Evaluation Metrics](#evaluation-metrics)
@@ -170,9 +170,7 @@ Scratch and Code.org proved most effective across a broad spectrum of metrics, o
 
 ## Author
 
-**Στέργιος Μουτζίκος (Stergios Moutzikos)**  
-AM: inf2021149  
+**Στέργιος Μουτζίκος (Stergios Moutzikos)**    
 Ionian University — Department of Informatics  
 Course: Special Topics in CS Didactics  
-Instructors: Karagiannis, Doukakis  
 June 2025
