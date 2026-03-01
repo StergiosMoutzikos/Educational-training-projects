@@ -170,7 +170,7 @@ The combination of Trello (for structure and project management) and Flat.io (fo
 
 ---
 
-## Authors
+## Author
 **Μουτζίκος Στέργιος**  
 
 Ionian University — Department of Informatics  
