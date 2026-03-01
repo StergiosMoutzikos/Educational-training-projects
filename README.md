@@ -12,8 +12,8 @@ A collection of two academic papers and educational proposals developed during m
 
 | Project | Course | Year | Topics |
 |---------|--------|------|--------|
-| [🎵 Music History & Tradition: Corfu–Vienna Collaboration](#-project-1--music-history--tradition-corfu--vienna-collaboration) | Collaborative Educational Environments | 2025 | Trello, Flat.io, intercultural education, music |
-| [🎮 Comparative Evaluation of Code Games](#-project-2--comparative--pedagogical-evaluation-of-code-games) | Special Topics in CS Didactics | 2025 | Code games, programming education, pedagogical assessment |
+| [ Music History & Tradition: Corfu–Vienna Collaboration](#-project-1--music-history--tradition-corfu--vienna-collaboration) | Collaborative Educational Environments | 2025 | Trello, Flat.io, intercultural education, music |
+| [ Comparative Evaluation of Code Games](#-project-2--comparative--pedagogical-evaluation-of-code-games) | Special Topics in CS Didactics | 2025 | Code games, programming education, pedagogical assessment |
 
 ---
 
