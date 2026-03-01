@@ -29,7 +29,7 @@ A full academic proposal for a **year-long cross-cultural music education progra
 - Student and teacher roles, assessment strategy, and support needs
 - Screenshots of actual Trello boards and Flat.io scores created for the project
 
-**Authors:** Μουτζίκος Στέργιος
+**Author:** Μουτζίκος Στέργιος
 📖 [Read the full README](./Collaborative_Environments_README.md)
 
 ---
@@ -47,7 +47,7 @@ A structured comparative study evaluating **6 popular coding education platforms
 - Pedagogical discussion of findings and recommendations for educators
 - Future research directions
 
-**Author:** Μουτζίκος Στέργιος (inf2021149)  
+**Author:** Μουτζίκος Στέργιος  
 📖 [Read the full README](./Code_Games_README.md)
 
 ---
