@@ -29,7 +29,7 @@ A full academic proposal for a **year-long cross-cultural music education progra
 - Student and teacher roles, assessment strategy, and support needs
 - Screenshots of actual Trello boards and Flat.io scores created for the project
 
-**Author:** Μουτζίκος Στέργιος
+**Author:** Μουτζίκος Στέργιος <br>
 📖 [Read the full README](./Συνεργατικά_Εκπαιδευτικά_Περιβάλλοντα/README.md)
 
 ---
