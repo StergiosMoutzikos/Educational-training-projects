@@ -30,7 +30,7 @@ A full academic proposal for a **year-long cross-cultural music education progra
 - Screenshots of actual Trello boards and Flat.io scores created for the project
 
 **Author:** Μουτζίκος Στέργιος
-📖 [Read the full README](./Collaborative_Environments_README.md)
+📖 [Read the full README](./Συνεργατικά_Εκπαιδευτικά_Περιβάλλοντα/README.md)
 
 ---
 
